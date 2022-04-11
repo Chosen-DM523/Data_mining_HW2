@@ -24,6 +24,14 @@ factorial(round(2.0015) + 1)
 12 * 3
 36 - 6
 30 / 3
+
+#Arithmetical operations / creating variables in R
+data_1 <- 50 * 10
+
+data_2 <- data_1 - 150
+
+data_2
+
 # ---------
 
 # R objects
